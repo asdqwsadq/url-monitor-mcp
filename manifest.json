@@ -1,0 +1,1 @@
+{"name":"url-monitor-mcp","version":"1.0.0","description":"URL变化监控 - 监控网页内容变化，自动检测差异并生成对比报告","runtime":"python","entry":"entry.py","transport":"stdio"}
